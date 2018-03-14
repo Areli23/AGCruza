@@ -23,6 +23,7 @@ namespace AGCruza
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }
